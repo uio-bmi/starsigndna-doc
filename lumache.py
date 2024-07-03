@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+StarSignDNA - Mutational Signature Algorithm.
 """
 
 __version__ = "0.1.0"
