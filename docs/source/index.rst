@@ -1,10 +1,7 @@
 Welcome to StarSIgnDNA's documentation!
 ===================================
 
-**StarSIgnDNA** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**StarSignDNA** algorithm for mutational signature analysis, offering efficient refitting and de novo signature extraction. hashtag#StarSignDNA is capable of deciphering well-differentiated signatures linked to known mutagenic mechanisms and demonstrates strong associations with patient clinical features. 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
