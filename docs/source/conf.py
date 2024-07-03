@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'StarSignDNA'
+copyright = '2024, Christian D. Bope'
+author = 'Christian D. Bope'
 
 release = '0.1'
 version = '0.1.0'
